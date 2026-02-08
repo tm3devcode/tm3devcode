@@ -1,16 +1,20 @@
-## Hi there 👋
+# TM3 | Educación & Tecnología 👨‍💻📚
 
-<!--
-**tm3devcode/tm3devcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Sistemas y Docente de Matemáticas.
+Desarrollo soluciones tecnológicas enfocadas en educación y automatización.
 
-Here are some ideas to get you started:
+## 🚀 Enfoque
+- Bots de Telegram (educativos y automatizados)
+- Automatización de procesos docentes
+- IA aplicada a educación básica
+- Herramientas EdTech reutilizables
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+- Python
+- Git & GitHub
+- Telegram Bot API
+- Automatización
+
+## 📍 Estado
+Perfil en construcción activa.  
+Cada repositorio documenta trabajo real y funcional.
