@@ -18,3 +18,7 @@ Desarrollo soluciones tecnológicas enfocadas en educación y automatización.
 ## 📍 Estado
 Perfil en construcción activa.  
 Cada repositorio documenta trabajo real y funcional.
+
+## 🔗 Conecta
+- LinkedIn: https://www.linkedin.com/in/tu-url-de-linkedin
+- Telegram: https://t.me/tm3_educacion_tecnologia
