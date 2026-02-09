@@ -20,5 +20,5 @@ Perfil en construcción activa.
 Cada repositorio documenta trabajo real y funcional.
 
 ## 🔗 Conecta
-- LinkedIn: https://www.linkedin.com/in/tu-url-de-linkedin
+- LinkedIn: https://www.linkedin.com/in/tm3devcode
 - Telegram: https://t.me/tm3_educacion_tecnologia
