@@ -95,5 +95,9 @@ Mejora estructural y proyección de nuevas líneas de innovación.
 
 ## 🔗 Conecta con TM3 Lab
 
-- LinkedIn
-- Telegram
+- 💼 LinkedIn (Perfil Profesional)  
+  https://www.linkedin.com/in/tm3devcode
+
+- 📢 Telegram (Canal del Proyecto)  
+  https://t.me/tm3_educacion_tecnologia
+
